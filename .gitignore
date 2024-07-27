@@ -1,0 +1,4 @@
+python/vendor_api/src/vendor_api/__pycache__/
+python/vendor_api/.idea/
+python/vendor_api/config.yaml
+python/vendor_api/local-config.yaml
